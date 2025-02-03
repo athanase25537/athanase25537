@@ -28,7 +28,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=athanase25537&" alt="athanase25537" /></p>
 
 <p align="center">
-  <a href="https://github.com/athanase25537">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athaanase25537&theme=radical" alt="Athanase's GitHub Contribution"/>
-  </a>
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athanase25537&theme=vision_friendly_dark)
 </p> 
