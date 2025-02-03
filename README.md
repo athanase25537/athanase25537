@@ -27,6 +27,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=athanase25537&" alt="athanase25537" /></p>
 
-<p align="center">
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athanase25537&theme=vision_friendly_dark)
-</p> 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athanase25537&theme=vision_friendly_dark) 
